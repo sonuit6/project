@@ -1,0 +1,9 @@
+e mode 100644 objects/49/b7d82dd5548d7ce4182f4eb936a8f1dda41425
+ create mode 100644 objects/50/268b92ac86df2e2cdef7e5db07fb45961a6f32
+ create mode 100644 objects/65/ab0734eaee21c05e9fcba572f2541ddfde6e45
+ create mode 100644 objects/80/e0d317dc95b41ae3131f4cc07f11b767bbdc89
+ create mode 100644 objects/cb/ab72cad67bc616ec2e4f6e0746e5af0130609b
+ create mode 100644 objects/ec/d75507f19687ae190495abced5f4c30efcd7e6
+ create mode 100644 refs/heads/master
+[test@mount project.git]$ ls
+
